@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.4162191
+color:
+  saturation: 0.09493618
+  lightness: 0.5521293
+  brandStrength: 0.8920515
+  brandColors:
+    - '#77BDFF'
+    - '#0E1515'
+    - '#656565'
+    - '#C6BDB4'
+    - '#F9F9F4'
+  rhythmicContrast: 0.7563562
+name: Boxtwo
